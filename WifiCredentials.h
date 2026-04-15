@@ -1,0 +1,1 @@
+inline WifiCredentials eduroam("eduroam", "", "john.doe", "123");
